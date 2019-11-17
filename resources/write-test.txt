@@ -1,0 +1,2 @@
+This is a writing test on your server. You can delete this file 
+once the connection was successfully tested from the app.
